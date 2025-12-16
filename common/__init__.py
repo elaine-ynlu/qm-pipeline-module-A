@@ -1,1 +1,1 @@
-"""Common utilities for tight-binding calculations."""
+"""Common utilities package."""
